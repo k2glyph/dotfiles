@@ -1,0 +1,6 @@
+.bundle
+./vendor/bundle
+*.swp
+*.lock
+*.DS_Store
+*.out

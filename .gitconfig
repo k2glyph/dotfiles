@@ -1,0 +1,19 @@
+[user]
+	name = Oriol Fitó
+	email = orifito@gmail.com
+[alias]
+	co = checkout
+        st = status -sb
+	d = diff
+	lg = log --oneline --graph --decorate
+	ps = push
+	pl = pull
+[color]
+	ui = auto
+[push]
+	default = current
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore_global
+[web]
+	browser = google-chrome
